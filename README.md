@@ -32,8 +32,7 @@ cd Airdrop-Bot
 # Install dependencies
 pip3 install -r requirements.txt
 
- [Edit code core.py configuration details(bot keys, twitter api keys if required force verification for  twitter)]
-
+#[Edit code core.py configuration details(bot keys, twitter api keys if required force verification for  twitter)]
 
 #Run Bot
 
