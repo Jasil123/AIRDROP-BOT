@@ -20,7 +20,7 @@ Here is an image that illustrates the concept:
 
 # Performance Of Bot 
 
-![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-11%20203840.png)
 
 ## Installation
 
