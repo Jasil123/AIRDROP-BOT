@@ -5,7 +5,11 @@ Welcome to the project! This is a brief description of what the project is about
 
 ## Introduction
 
-Crypto Airdrop Bot With Full Functions
+Crypto Airdrop Bot With Full Functions in python using pyrogram and teelthon library
+
+# Performance Of Bot 
+
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-11%20203840.png)
 
 Here is an image of bot logo:
 
@@ -18,9 +22,7 @@ Here is an image of bot logo:
 - Save Users Details Completly and accessable every seconds in excel sheet using secret command
 - Secured Affliate
 
-# Performance Of Bot 
 
-![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-11%20203840.png)
 
 ## Installation
 
