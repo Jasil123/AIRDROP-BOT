@@ -58,11 +58,11 @@ Excel Sheet:
 ## Manual Withdraw Function
 Admin Can Approve or Reject Request
 
-#Requests
+Requests :
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20230935.png)
-#If Approved
+If Approved :
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20231006.png)
-#If Rejected
+If Rejected :
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20231115.png)
 
 
