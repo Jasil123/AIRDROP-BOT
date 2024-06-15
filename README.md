@@ -22,9 +22,10 @@ Here is an image of bot logo:
 - Save Users Details Completly and accessable every seconds in excel sheet using secret command
 - Secured Affliate
 
-#Buttons
+##Buttons
 
 Here The buttons:
+
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/buttons.png)
 
 ## Installation
