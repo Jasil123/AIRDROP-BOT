@@ -5,7 +5,7 @@ Welcome to the project! This is a brief description of what the project is about
 
 ## Introduction
 
-Crypto Airdrop Bot With Full Functions in python using pyrogram and teelthon library
+Crypto Airdrop Bot With Full Functions in python using pyrogram and telthon library
 
 # Performance Of Bot 
 
