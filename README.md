@@ -1,10 +1,11 @@
-# Project Title
-
+# JSK AIRDROP BOT
+Demo Bot - https://t.me/jskrewardbot (Twitter Verification disabled )
+Developer Contact - https://t.me/Jasil6684
 Welcome to the project! This is a brief description of what the project is about.
 
 ## Introduction
 
-This section contains some introductory text about the project. 
+Crypto Airdrop Bot With Full Functions
 
 Here is an image that illustrates the concept:
 
@@ -12,20 +13,29 @@ Here is an image that illustrates the concept:
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
-
+- Force Task Complete Verification in Twitter and Telegram
+- Auto Payment Gateway and Manual Withdraw (If paymnet gateway return error auto switch to manual)
+- Save Users Details Completly and accessable every seconds in excel sheet using secret command
+- Secured Affliate
+- 
 ## Installation
 
 Instructions on how to install and set up the project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repository.git
+git clone (contact developer to get code https://t.me/Jasil6684)
 
 # Navigate into the directory
-cd your-repository
+cd Airdrop-Bot
 
 # Install dependencies
-npm install
+pip3 install -r requirements.txt
+
+ [Edit code core.py configuration details(bot keys, twitter api keys if required force verification for  twitter)]
+
+
+#Run Bot
+
+python3 bot.py
+
