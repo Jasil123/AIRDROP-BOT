@@ -18,7 +18,7 @@ Here is an image that illustrates the concept:
 - Save Users Details Completly and accessable every seconds in excel sheet using secret command
 - Secured Affliate
 
-## Performance Of Bot 
+# Performance Of Bot 
 
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
 
@@ -45,7 +45,7 @@ python3 bot.py
 ```
 ## Features Explanations
 
-## accessing users details in excel sheet using secret command  
+# Accessing users details in excel sheet using secret command  
 
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
 
@@ -57,8 +57,12 @@ Excel Sheet:
 
 ## Manual Withdraw Function
 Admin Can Approve or Reject Request
+
+Requests
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
+If Approved
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
+If Rejected
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
 
 
