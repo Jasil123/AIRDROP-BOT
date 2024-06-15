@@ -47,23 +47,23 @@ python3 bot.py
 
 # Accessing users details in excel sheet using secret command  
 
-![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20230535.png)
 
 
 Excel Sheet:
 
-![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20230651.png)
 
 
 ## Manual Withdraw Function
 Admin Can Approve or Reject Request
 
-Requests
+#Requests
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
-If Approved
-![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
-If Rejected
-![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
+#If Approved
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20231006.png)
+#If Rejected
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20231115.png)
 
 
 
