@@ -22,7 +22,10 @@ Here is an image of bot logo:
 - Save Users Details Completly and accessable every seconds in excel sheet using secret command
 - Secured Affliate
 
+#Buttons
 
+Here The buttons:
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/buttons.png)
 
 ## Installation
 
@@ -76,15 +79,15 @@ If Rejected :
 
 # Broadcast To Every Users:
 
-![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20230935.png)
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-15%20233634.png)
 
 # Broadcast To Every Not Registred Users (to Just /started users |to Task not completed users)
 
-![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20230935.png)
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-15%20233804.png)
 
 # To One Person 
 
-![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20230935.png)
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-15%20233404.png)
 
 
 
