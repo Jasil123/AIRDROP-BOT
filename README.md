@@ -7,9 +7,9 @@ Welcome to the project! This is a brief description of what the project is about
 
 Crypto Airdrop Bot With Full Functions
 
-Here is an image that illustrates the concept:
+Here is an image of bot logo:
 
-![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
+<img src="https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg" alt="Alt text" width="500"/>
 
 ## Features
 
