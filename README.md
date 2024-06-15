@@ -22,7 +22,7 @@ Here is an image of bot logo:
 - Save Users Details Completly and accessable every seconds in excel sheet using secret command
 - Secured Affliate
 
-##Buttons
+# Buttons
 
 Here The buttons:
 
@@ -49,9 +49,9 @@ pip3 install -r requirements.txt
 python3 bot.py
 
 ```
-## Features Explanations
+# Features Explanations
 
-# Accessing users details in excel sheet using secret command  
+## Accessing users details in excel sheet using secret command  
 
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20230535.png)
 
