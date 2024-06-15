@@ -9,7 +9,7 @@ Crypto Airdrop Bot With Full Functions
 
 Here is an image that illustrates the concept:
 
-![Alt text](https://path-to-your-image.jpg)
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/photo_2024-06-07_19-31-01.jpg)
 
 ## Features
 
