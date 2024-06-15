@@ -55,7 +55,7 @@ Excel Sheet:
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20230651.png)
 
 
-## Manual Withdraw Function
+# Manual Withdraw Function
 Admin Can Approve or Reject Request
 
 Requests :
