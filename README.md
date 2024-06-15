@@ -59,10 +59,15 @@ Excel Sheet:
 Admin Can Approve or Reject Request
 
 Requests :
+
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20230935.png)
+
 If Approved :
+
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20231006.png)
+
 If Rejected :
+
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20231115.png)
 
 
