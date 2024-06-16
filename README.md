@@ -78,8 +78,46 @@ If Rejected :
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/rejected.png)
 
 # Payment Gateway
-Autopayment to user in any blockchain(Trc20,Trc10,Tomochain,Near Protocol,Erc20,Bep20 etc)
 
+Autopayment to user in any blockchain(Trc20,Trc10,Tomochain,Near Protocol,Erc20,Bep20 etc)<br><br>
+Example in Tomochain Blockchain :- <br><br>
+ r = requests.post('https://jsk123.herokuapp.com/sendtoken', json ={'recipient': user_data['wallet'],'token': '0xEbE790D96D02C3144C667643CD2Dce69d1EFc00B','amount': f'{amount}','private_key':'6597f19b4f3523afa7b5d361bc3d5105dcb6857d77dfc7c473ed41965a3b0c7b'})
+Telegram Bot Withdrawal Code:<br>
+```bash
+
+bot.send_message(message.chat.id,"Your withdrawal is processing ...... will arive within 2 minutes\n\n ATTENTION>Do not click on other buttons while withdrawal is pending , You will receive a transaction hash when the withdrawal is complete")    
+sa
+
+```
+Integrated Own API For Autopayment:<br>
+```bash
+
+app.post('/sendtoken', body('recipient').not().isEmpty().trim().escape(), body('token').not().isEmpty().trim().escape(), body('amount').isNumeric(), body('private_key').not().isEmpty().trim().escape(), async (req, res) => {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
+    try{
+    var {recipient, private_key, amount, token} = req.body;
+    const provider = new HDWalletProvider(private_key, `https://rpc.tomochain.com`);
+    web3 = new Web3(provider);
+    let contract = new web3.eth.Contract(minABI, token);
+    const accounts = await web3.eth.getAccounts();
+    let value = new BigNumber(amount * 10 ** 18);
+    contract.methods.transfer(recipient, value).send({from: accounts[0]}).then(
+        (data) => {
+            res.status(200).json(data)
+        }
+    )
+    }catch(e){
+        return res.status(400).json({error: e})
+    }
+})
+
+app.listen(process.env.PORT || 3000)
+
+
+```
 ## Broadcast To Every Users:
 
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/broadcast.png)
