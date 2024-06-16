@@ -31,8 +31,7 @@ Here The buttons:
 Instructions on how to install and set up the project.
 
 ```bash
-# Clone the repository
-git clone (contact developer to get code https://t.me/Jasil6684)
+# Get Code Files From @Jasil6684 on telegram
 
 # Navigate into the directory
 cd Airdrop-Bot
