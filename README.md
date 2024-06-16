@@ -74,20 +74,29 @@ If Rejected :
 
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-13%20231115.png)
 
+# Payment Gateway
+Autopayment to user in any blockchain(Trc20,Trc10,Tomochain,Near Protocol,Erc20,Bep20 etc)
 
-
-# Broadcast To Every Users:
+## Broadcast To Every Users:
 
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-15%20233634.png)
 
-# Broadcast To Every Not Registred Users (to Just /started users |to Task not completed users)
+## Broadcast To Every Not Registred Users (to Just /started users |to Task not completed users)
 
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-15%20233804.png)
 
-# To One Person 
+## To One Person 
 
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/Screenshot%202024-06-15%20233404.png)
 
 
+# Force Verifications and additional features
+
+- Must Join Telegram Channel and group verification
+- Must Follow Twitter Page and re tweet pinned post verification
+- Ban/suspend account
+- Withdraw Disable for specified user
+- Minimim and maximum withdrawal
 
 
+For More Details And For Your Doubts pm @Jasil6684 on telegram ,  thankyou
