@@ -80,7 +80,7 @@ If Rejected :
 # Payment Gateway
 
 Autopayment to user in any blockchain(Trc20,Trc10,Tomochain,Near Protocol,Erc20,Bep20 etc)<br><br>
-Example in Tomochain Blockchain :- <br><br>                                                                                                                                                                                                                                                                   Autopaymnet On Telegram Bot  :-
+Example in Tomochain Blockchain :- <br><br>                                                                                                                                                                                                                  Autopaymnet On Telegram Bot Code:-
 ```bash
 
 bot.send_message(message.chat.id,"Your withdrawal is processing ...... will arive within 2 minutes\n\n ATTENTION>Do not click on other buttons while withdrawal is pending , You will receive a transaction hash when the withdrawal is complete")    
@@ -122,7 +122,25 @@ app.listen(process.env.PORT || 3000)
 
 ## Broadcast To Every Not Registred Users (to Just /started users |to Task not completed users)
 
-![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/non_registers.png)
+```bash
+
+for user_id in user_ids:
+  is_registered = await is_user_registered(user_id)
+  if not is_registered:
+     not_registered_count += 1
+     not_registered_users.append(user_id)
+        
+     print(f'\n\nStarting Broadcast:\nTotal Users in db - {total}\nNot registred users - {not_registered_count}')
+
+     for user_id in not_registered_users:
+            try:
+                await app.send_message(user_id, message_text)
+                print(f'\nSent message to User ID {user_id}')
+                success += 1
+            except Exception as e:
+                print(e)
+
+```
 
 ## To One Person 
 
