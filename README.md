@@ -1,7 +1,7 @@
 # JSK AIRDROP BOT
-Demo Bot - https://t.me/jskrewardbot (Twitter Verification disabled )
-Developer Contact - https://t.me/Jasil6684
-Welcome to the project! This is a brief description of what the project is about.
+Demo Bot - https://t.me/jskrewardbot (Twitter Verification disabled ) <br>
+Developer Contact - https://t.me/Jasil6684 <br>
+Welcome to the project! This is a brief description of what the project is about. <br>
 
 ## Introduction
 
