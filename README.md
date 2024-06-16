@@ -80,7 +80,7 @@ If Rejected :
 # Payment Gateway
 
 Autopayment to user in any blockchain(Trc20,Trc10,Tomochain,Near Protocol,Erc20,Bep20 etc)<br><br>
-Example in Tomochain Blockchain :- <br><br>
+Example in Tomochain Blockchain :- <br><br>                                                                                                                                                                                                                                                                   Autopaymnet On Telegram Bot  :-
 ```bash
 
 bot.send_message(message.chat.id,"Your withdrawal is processing ...... will arive within 2 minutes\n\n ATTENTION>Do not click on other buttons while withdrawal is pending , You will receive a transaction hash when the withdrawal is complete")    
