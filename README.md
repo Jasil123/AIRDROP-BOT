@@ -113,5 +113,5 @@ User details -
 
 ref count - 
 
-![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/db%ref.png)
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/ref%20db.png)
 
