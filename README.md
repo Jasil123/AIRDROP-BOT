@@ -7,7 +7,7 @@ Welcome to the project! This is a brief description of what the project is about
 
 Crypto Airdrop Bot With Full Functions 
 - Language - Python
-- Library - Pyrogram and telthon library 
+- Library - Pyrogram and telethon
 - Db - Mongodb
 
 # Performance Of Bot 
