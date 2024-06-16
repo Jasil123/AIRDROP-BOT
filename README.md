@@ -103,3 +103,15 @@ Autopayment to user in any blockchain(Trc20,Trc10,Tomochain,Near Protocol,Erc20,
 
 
 For More Details And For Your Doubts pm @Jasil6684 on telegram ,  thankyou
+
+
+# Database Details
+
+User details - 
+
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/db.png)
+
+ref count - 
+
+![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/db%ref.png)
+
