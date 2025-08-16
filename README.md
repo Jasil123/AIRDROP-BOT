@@ -1,5 +1,5 @@
 # JSK AIRDROP BOT
-Demo Bot - https://t.me/jskrewardbot (Twitter Verification disabled ) <br>
+Demo Bot - https://t.me/jskrewardbot (Twitter Verification disabled ) (message ,for deploy this bot,currently bot is down)<br>
 Developer Contact - https://t.me/Jasil6684 <br><br>
 
 ## Welcome to the project! This is a brief description of what the project is about. 
@@ -168,4 +168,4 @@ ref count -
 ![Airdrop Bot](https://github.com/Jasil123/AIRDROP-BOT/blob/main/project%20pics/ref%20db.png)
 
 
-For More Details And For Your Doubts pm @Jasil6684 on telegram ,  thankyou
+For More Details And For Your Doubts pm [@Jasil6684](https://t.me/Jasil6684 ) on telegram ,  thankyou
